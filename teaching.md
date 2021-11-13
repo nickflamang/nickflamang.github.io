@@ -6,7 +6,7 @@ I have worked as a graduate student instructor for the following courses.
 
 ## Econ 134: Macroeconomic Policy from the Great Depression To Today
 Professor Emi Nakamura  
-Taught in Fall 2019, Fall 2020
+Taught in Fall 2019, Fall 2020, Fall 2021
 
 ## Econ 101B: Honors Intermediate Macroeconomics
 Professor Yuriy Gorodnichenko  
