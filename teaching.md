@@ -2,7 +2,7 @@
 title: Teaching
 ---
 
-I have worked as a graduate student instructor for the following courses.
+In 2022, I received the Outstanding Graduate Student Instructor (GSI) award, which is given to the top 10% of GSIs at UC Berkeley. I had the privilege of working as a Graduate Student Instructor for the following courses.
 
 ## Econ 134: Macroeconomic Policy from the Great Depression To Today
 Professor Emi Nakamura  
