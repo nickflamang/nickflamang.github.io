@@ -7,7 +7,9 @@ I work on topics at the intersection of macro, labor, and behavioral economics. 
 ---
 ## Work in Progress
 
-**Does Shopping Behavior Explain the Post-Retirement Consumption Drop?**
+**Does Shopping Behavior Explain the Post-Retirement Consumption Drop? [Draft coming soon]**
+
+**Unemployment Benefit Expansions and Local Financial Distress [Draft coming soon]** (with [Sree Kancherla](https://sreekancherla.github.io/))
 
 **What Can We Learn from the Seasonality of Financial Distress?**
 
