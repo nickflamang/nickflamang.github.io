@@ -9,10 +9,8 @@ I work on topics at the intersection of macro, public, and behavioral economics.
 
 **Does Shopping Behavior Explain the Post-Retirement Consumption Drop? [Draft coming soon]**
 
-**Unemployment Benefit Expansions and Local Financial Distress [Draft coming soon]** (with [Sree Kancherla](https://sreekancherla.github.io/))
+**Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions [Draft coming soon]** (with [Sree Kancherla](https://sreekancherla.github.io/))
 
 **What Can We Learn from the Seasonality of Financial Distress?**
 
 **Revisiting Liquidity Provision** (with [Sree Kancherla](https://sreekancherla.github.io/))
-
-**Borrowing Responses to Job Transitions** (with [Sree Kancherla](https://sreekancherla.github.io/))
