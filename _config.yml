@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Nick Flamang"
-  avatar           : #"nick_website.jpg"
-  bio              : #"Ph.D. Candidate in Economics, UC Berkeley"
+  name             : "Nick Flamang"
+  avatar           : "nick_website.jpg"
+  bio              : "Ph.D. Candidate in Economics, UC Berkeley"
   location         : #"Berkeley, California"
   employer         :
   pubmed           : 
@@ -197,7 +197,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -218,6 +218,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+   # _research
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true    
   # _publications
   - scope:
       path: ""
