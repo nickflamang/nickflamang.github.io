@@ -2,7 +2,10 @@ I am a PhD Candidate in Economics at [UC Berkeley](https://www.econ.berkeley.edu
 
 I am on the 2022/23 academic job market. You can find my CV [here](https://www.dropbox.com/s/8jmjnbfrxfxqa2f/CV_Website.pdf?dl=0) and you can contact me [here](mailto:nflamang@berkeley.edu).
 
+
 **References**
 [Emi Nakamura](https://eml.berkeley.edu/~enakamura/) (chair)
+
 [Yuriy Gorodnichenko](https://eml.berkeley.edu/~ygorodni/)
+
 [Amir Kermani](https://faculty.haas.berkeley.edu/amir/)
