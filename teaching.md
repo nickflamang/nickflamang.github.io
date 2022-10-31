@@ -15,6 +15,3 @@ Taught in Spring 2019
 ## Econ 1: Introduction to Economics
 Professor Martha Olney  
 Taught in Fall 2018
-
-
-<img align=left style=float src="https://user-images.githubusercontent.com/67754346/199104790-66687124-2966-4961-8a40-291f83325cd0.jpg" width=37.5% height=37.5%>  I am a PhD Candidate in Economics at
