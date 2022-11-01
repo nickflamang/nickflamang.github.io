@@ -7,7 +7,7 @@ I work on topics at the intersection of macro, public, and behavioral economics.
 ---
 ## Job Market Paper
 
-**Revisiting the Consumption-Retirement Puzzle: Evidence from a Long Panel [Draft coming soon]**
+**Revisiting the Consumption-Retirement Puzzle: Evidence from a Long Panel [Data Provider Review Pending, Draft coming soon]**
 
 
 ## Working Papers
