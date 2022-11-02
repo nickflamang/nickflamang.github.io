@@ -12,7 +12,7 @@ I am an empirical macroeconomist with a particular focus on questions of househo
 
 ## Working Papers
 
-**Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions [Draft coming soon]** (with [Sree Kancherla](https://sreekancherla.github.io/))
+**[Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions](https://www.dropbox.com/s/kxtsdxo1w6yb887/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf?dl=0)** (with [Sree Kancherla](https://sreekancherla.github.io/))
 
 
 ## Select Work in Progress
