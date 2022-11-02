@@ -10,7 +10,7 @@ I am a PhD Candidate in Economics at [UC Berkeley](https://www.econ.berkeley.edu
 
 Prior to coming to Berkeley, I worked as a pre-doctoral fellow at the [Opportunity Insights Lab](https://opportunityinsights.org/), and I hold an M.Sc. from [Humboldt-Universität zu Berlin](https://www.wiwi.hu-berlin.de/en/mainpage).
 
-I am on the 2022/23 academic job market. You can find my CV [here](https://github.com/nickflamang/nickflamang.github.io/blob/306325c5694890e2cefa66c45ac9f4b344cfc8b0/_site/files/CV_Niklas_Flamang.pdf) and you can contact me at [nflamang[at]berkeley[dot]edu](mailto:nflamang@berkeley.edu).
+I am on the 2022/23 academic job market. You can find my CV [here](https://nickflamang.github.io/files/CV_Niklas_Flamang.pdf) and you can contact me at [nflamang[at]berkeley[dot]edu](mailto:nflamang@berkeley.edu).
 <br />
 
 ## References
