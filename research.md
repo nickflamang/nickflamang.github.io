@@ -2,7 +2,7 @@
 title: Research
 ---
 
-I work on topics at the intersection of macro, public, and behavioral economics. Specifically, I am interested in questions of household finance like the ways households smooth out shocks to their income and wealth. Here, I am trying to understand to what extent observed behavior can be explained by standard mechanisms like liquidity constraints or shocks to lifetime income or whether we need deviations from classical models to understand households' smoothing behavior. 
+I am an empirical macroeconomist with a particular focus on questions of household finance. My primary research interest is in households’ consumption behavior: Why do so many households have high marginal propensities to consume; is households’ borrowing behavior close to optimal smoothing; how do households weather anticipated and unanticipated shocks to their income? 
 
 ---
 ## Job Market Paper
