@@ -4,7 +4,7 @@ author_profile: false
 ---
 
 <br />
-<img align="left" width="350" style="vertical-align:left;margin-right: 1em" src="{{ site.url }}/images/nick_website.jpg" alt="A photo of Nick Flamang">
+<img align="left" width="350" style="vertical-align:left;margin-right: 2em" src="{{ site.url }}/images/nick_website.jpg" alt="A photo of Nick Flamang">
 
 I am a PhD Candidate in Economics at [UC Berkeley](https://www.econ.berkeley.edu/) and a Research Fellow at the [Macro Policy Lab](https://www.macropolicylab.org/). I work on questions of empirical macroeconomics and household finance. My research focuses on understanding households' consumption behavior in light of anticipated and unanticipated shocks to their income. 
 
