@@ -4,7 +4,7 @@ author_profile: false
 ---
 
 <br />
-<img align="left" width="350" style="vertical-align:left;margin:0px 50px" src="{{ site.url }}/images/nick_website.png" alt="A photo of Nick Flamang">
+<img align="left" width="350" style="vertical-align:left;margin:0px 50px" src="{{ site.url }}/images/nick_website.jpg" alt="A photo of Nick Flamang">
 
 I am a PhD Candidate in Economics at [UC Berkeley](https://www.econ.berkeley.edu/) and a Research Fellow at the [Macro Policy Lab](https://www.macropolicylab.org/). I work on topics at the intersection of macro, public, and behavioral economics. I am particularly interested in questions of household finance like the ways households smooth out shocks to their income and wealth. Prior to coming to Berkeley, I worked as a pre-doctoral fellow at the [Opportunity Insights Lab](https://opportunityinsights.org/), and I hold an M.Sc. from Humboldt-Universität zu Berlin. 
 
