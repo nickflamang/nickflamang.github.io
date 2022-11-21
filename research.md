@@ -7,7 +7,7 @@ I am an empirical macroeconomist with a particular focus on questions of househo
 ---
 ## Job Market Paper
 
-**[Revisiting the Consumption-Retirement Puzzle: Evidence from a Long Panel](https://nickflamang.github.io/files/nflamang_jmp.pdf)**
+**[Revisiting the Consumption-Retirement Puzzle](https://nickflamang.github.io/files/nflamang_jmp.pdf)**
 
 
 ## Working Papers
