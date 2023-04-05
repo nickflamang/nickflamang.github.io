@@ -8,12 +8,6 @@ author_profile: false
 
 I am a PhD Candidate in Economics at [UC Berkeley](https://www.econ.berkeley.edu/) and a Research Fellow at the [Macro Policy Lab](https://www.macropolicylab.org/). I work on questions of empirical macroeconomics and household finance. My research focuses on understanding households' consumption behavior in light of anticipated and unanticipated shocks to their income. 
 
-Prior to coming to Berkeley, I worked as a pre-doctoral fellow at the [Opportunity Insights Lab](https://opportunityinsights.org/), and I hold an M.Sc. from [Humboldt-Universität zu Berlin](https://www.wiwi.hu-berlin.de/en/mainpage).
+This summer, I will be joining [Nova School of Business and Economics](https://www.novasbe.unl.pt/en/finance) as an Assistant Professor of Finance.
 
-I am on the 2022/23 academic job market. You can find my CV [here](https://nickflamang.github.io/files/CV_Niklas_Flamang.pdf) and you can contact me at [nflamang[at]berkeley[dot]edu](mailto:nflamang@berkeley.edu).
-<br />
-
-## References
-[Emi Nakamura](https://eml.berkeley.edu/~enakamura/) (chair)  
-[Yuriy Gorodnichenko](https://eml.berkeley.edu/~ygorodni/)  
-[Amir Kermani](https://faculty.haas.berkeley.edu/amir/)
+You can find my CV [here](https://nickflamang.github.io/files/CV_Niklas_Flamang.pdf) and you can contact me at [nflamang[at]berkeley[dot]edu](mailto:nflamang@berkeley.edu).
