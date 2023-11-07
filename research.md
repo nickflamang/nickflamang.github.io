@@ -2,7 +2,7 @@
 title: Research
 ---
 
-I am a household finance economist with my work stretching from empirical macroeconomics to public finance. My primary research interest is in household behavior in light of changes to their income or wealth: Do households shop more selectively when their income falls; what are the labor supply responses to temporary liquidity shocks for unemployed workers; why is financial distress so seasonal?
+I am a household finance economist with my work stretching from empirical macroeconomics to public finance. My primary research interest is in household behavior in light of changes to income or wealth: Do households shop more selectively when their income falls; what are the labor supply responses to temporary liquidity shocks for unemployed workers; why is financial distress so seasonal?
 
 ---
 ## Working Papers
