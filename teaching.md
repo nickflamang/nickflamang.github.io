@@ -2,16 +2,8 @@
 title: Teaching
 ---
 
-In 2022, I received the Outstanding Graduate Student Instructor (GSI) award, which is given to the top 10% of GSIs at UC Berkeley. I had the privilege of working as a Graduate Student Instructor for the following courses.
+## Nova School of Business and Economics
+BSc. Finance (from Spring 2024)
 
-## Econ 134: Macroeconomic Policy from the Great Depression To Today
-Professor Emi Nakamura  
-Taught in Fall 2019, Fall 2020, Fall 2021
-
-## Econ 101B: Honors Intermediate Macroeconomics
-Professor Yuriy Gorodnichenko  
-Taught in Spring 2019
-
-## Econ 1: Introduction to Economics
-Professor Martha Olney  
-Taught in Fall 2018
+## University of California, Berkeley
+During my doctoral studies, I had the privilege of working as a Graduate Student Instructor for Econ 134 (Macroeconomic Policy from the Great Depression To Today -- taught by Emi Nakamura), Econ 101B (Honors Intermediate Macroeconomics -- taught by Yuriy Gorodnichenko), and Econ 1 (Introduction to Economics -- taught by Martha Olney). In 2022, I received the Outstanding Graduate Student Instructor (GSI) award, which is given to the top 10% of GSIs at UC Berkeley.
