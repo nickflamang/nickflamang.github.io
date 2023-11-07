@@ -2,7 +2,7 @@
 title: Research
 ---
 
-I am an empirical macroeconomist with a particular focus on questions of household finance. My primary research interest is in households’ consumption behavior: Why do so many households have high marginal propensities to consume; is households’ borrowing behavior close to optimal smoothing; how do households weather anticipated and unanticipated shocks to their income? 
+I am a household finance economist with my work stretching from empirical macroeconomics to public finance. My primary research interest is in household behavior in light of changes to their income or wealth: Do households shop more selectively when their income falls; what are the labor supply responses to temporary liquidity shocks for unemployed workers; why is economic distress so seasonal?
 
 ---
 ## Working Papers
