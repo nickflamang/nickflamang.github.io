@@ -11,7 +11,7 @@ I am a household finance economist with my work stretching from empirical macroe
 
 **[Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions](https://nickflamang.github.io/files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf)** (with [Sree Kancherla](https://sreekancherla.github.io/))
 
-**Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment** (draft coming soon, with [Sree Kancherla](https://sreekancherla.github.io/))
+**Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment** (undergoing review--email for draft, with [Sree Kancherla](https://sreekancherla.github.io/))
 
 ## Select Work in Progress
 
