@@ -284,8 +284,8 @@ whitelist:
   - jemoji
 
 Plausible:
-    domain: 'nickflamang.github.io'   # The domain configured in plausible
-    source: 'https://plausible.io/js/script.js' # The source of the javascript
+    domain: 'nickflamang.github.io'  
+    source: 'https://plausible.io/js/script.js' 
 
 # Archives
 #  Type
