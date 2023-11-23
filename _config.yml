@@ -274,6 +274,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-analytics
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -282,6 +283,9 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+Plausible:
+    domain: 'nickflamang.github.io'   # The domain configured in plausible
+    source: 'https://plausible.io/js/script.js' # The source of the javascript
 
 # Archives
 #  Type
