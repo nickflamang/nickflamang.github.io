@@ -10,4 +10,4 @@ I am an Assistant Professor of Finance at [Nova School of Business and Economics
 
 You can find my CV [here](https://nickflamang.github.io/files/CV_Niklas_Flamang.pdf) and you can contact me at [nick.flamang[at]novasbe[dot]pt](mailto:nick.flamang@novasbe.pt).
 
-Nova graduate students can sign up for office hours [here](https://calendly.com/nick-flamang/30min). 
+Nova graduate students can sign up for office hours [here](https://calendly.com/nickflamang/30min).
